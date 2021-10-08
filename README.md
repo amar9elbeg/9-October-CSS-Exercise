@@ -1,0 +1,5 @@
+Clone the project 
+
+NO CHANGES TO HTML !!! 
+
+ONLY USING CSS TO STYLE HOME AND ABOUT PAGE !! 
